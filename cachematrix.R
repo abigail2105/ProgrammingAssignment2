@@ -27,7 +27,7 @@ cacheSolve <- function(x, ...) {
   m
 }
 
-  ## Returns a matrix that is the inverse of 'x'
-  ## if x has ben cached it returns the cached inverse
-  ## if there is no cache it calculates and caches the inverse     
+## This function returns a matrix that is the inverse of 'x'
+## if x has ben cached it returns the cached inverse
+## if there is no cache it calculates and caches the inverse     
 }
